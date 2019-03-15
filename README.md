@@ -3,7 +3,7 @@
 ***
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
-I am passionate about learning, which has led me to a career as a full stack software engineer. I have 10 months experience working with Javascript, the MERN stack, microservices and AMQP at EdTech company Tes Global. 
+I am passionate about learning, which has led me to a career as a full stack software engineer. I have 10 months experience working with Javascript, the MERN stack, microservices and AMQP at EdTech company Tes Global, helping to improve millions teachers' worklives and helping schools to recruit and train thousands of teachers all over the world. 
 
 After graduating with a degree in Chemistry, I was awarded a scholarship from the Confucius Institute to study Basic Mandarin in China, after which I decided to pursue life as a SCUBA diving instructor in the Philippines. This led me to the decision to become a teacher and was awarded a teacher training scholarship from the Royal Society of Chemistry, but my thirst for learning was often overshadowed by the demands on time being a teacher involves. 
 
