@@ -3,7 +3,7 @@
 ***
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
-I am passionate about learning, which has led me to a career as a full stack software engineer. Always on the look out for new challenges, I can't wait to get stuck in to a project and expand on everything I have learned at Makers Academy. 
+I am passionate about learning, which has led me to a career as a full stack software engineer. I have 10 months experience working with Javascript, the MERN stack and microservices at EdTech company Tes Global. 
 
 After graduating with a degree in Chemistry, I was awarded a scholarship from the Confucius Institute to study Basic Mandarin in China, after which I decided to pursue life as a SCUBA diving instructor in the Philippines. This led me to the decision to become a teacher and was awarded a teacher training scholarship from the Royal Society of Chemistry, but my thirst for learning was often overshadowed by the demands on time being a teacher involves. 
 
@@ -72,12 +72,21 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 
 ### <a name="experience">Experience</a>
 
+**Tes Global, Remote / London** (June 2018 - present)
+- *Associate Software Engineer on the registration team, followed by the school portal team*
+- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ*
+- *Active member of Diversity & Inclusion Working Group
+- *Champion of the Study Club*
+- *Mentor*
+
 **Fulston Manor School, Sittingbourne** (Sep '17 - Dec '17)
 - *Teacher of Science*
+- *Form Tutor*
 - *Erasmus Assistant Coordinator*
 
 **Archbishop Blanch School, Liverpool** (Mar '16 - Jun '16)
 - *Teacher Training*
+- *Intervention Tutor*
 
 **St Margaret's Church of England Academy, Liverpool** (Sep '15 - Feb '16)
 - *Teacher Training*
@@ -91,7 +100,7 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 
 ### <a name="interests">Interests</a>
 
-- Yoga and Meditation 
+- Meditation and Yoga
 - Walking in nature
 - Letterpress Printing
 - SCUBA Diving
