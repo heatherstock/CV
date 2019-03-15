@@ -3,7 +3,7 @@
 ***
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
-I am passionate about learning, which has led me to a career as a full stack software engineer. I have 10 months experience working with Javascript, the MERN stack and microservices at EdTech company Tes Global. 
+I am passionate about learning, which has led me to a career as a full stack software engineer. I have 10 months experience working with Javascript, the MERN stack, microservices and AMQP at EdTech company Tes Global. 
 
 After graduating with a degree in Chemistry, I was awarded a scholarship from the Confucius Institute to study Basic Mandarin in China, after which I decided to pursue life as a SCUBA diving instructor in the Philippines. This led me to the decision to become a teacher and was awarded a teacher training scholarship from the Royal Society of Chemistry, but my thirst for learning was often overshadowed by the demands on time being a teacher involves. 
 
@@ -26,11 +26,14 @@ You can see all of my progress on [Github](https://github.com/heatherstock)
 
 ### <a name="skills">Skills</a>
 
-**XP Values** - Even before I knew what "XP values" meant, I have been striving to embody them in my previous roles. As a SCUBA instructor and science teacher, communication was imperative for the progress of my students, as was taking complex abstract ideas and breaking them down into simple concrete examples. Giving feedback in a constructive manner was essential (see my blog on [feedback](https://medium.com/@heatherstock/nice-next-time-now-ideas-for-effective-feedback-8d24634efd28)), as was deciphering the feedback my students were constantly displaying, such as in their approach to a challenge for example. Having courage was a huge aspect to these roles, showing up each day to help students achieve their goals and respecting them as individuals with individual challenges and learning journeys. 
+**XP Values** - Even before I knew what "XP values" meant, I have been striving to embody them in my previous roles. 
+*Communication* - As a SCUBA instructor and science teacher, communication was imperative for the progress of my students, as was taking complex abstract ideas and breaking them down into simple concrete examples. I now am champion of the study club at Tes Global, helping my colleages solve problems and gain new knowledge and skills, even those that are more experienced than I.
 
-**Problem Solving** - I love a good problem to solve. From thinking about the best way to present a new idea to a class of 30 teenagers as a science teacher, to in the moment decision making when a novice SCUBA diver had a problem and it was my responsibility to help. 
+*Feedback* - Giving feedback in a constructive manner was essential during my time teaching (see my blog on [feedback](https://medium.com/@heatherstock/nice-next-time-now-ideas-for-effective-feedback-8d24634efd28)), as was deciphering the feedback my students were constantly displaying, such as in their approach to a challenge for example. 
 
-During my time at Fulston Manor School, I had the opportunity to visit Germany as part of the coordination of a new Erasmus project between four European schools. Finding a way for students to track the progress of their international teams in between meet ups (and for the teachers to make sure the teams were keeping on top of their tasks) was a struggle for the teachers who weren't particularly technologically savvy. After some research I presented "Trello" as the solution, which would give the students experience in a widely used task management app and avoid them relying solely on social media for communication (which the teachers could not oversee).
+*Courage* - Having courage was a huge aspect to these roles, showing up each day to help students achieve their goals and respecting them as individuals with individual challenges and learning journeys. 
+
+**Problem Solving** - I love a good problem to solve. From thinking about the best way to present a new idea to a class of 30 teenagers as a science teacher, to in the moment decision making when a novice SCUBA diver had a problem and it was my responsibility to help. My experience beyond the tech industry allows me insights into problems that more experienced engineers listen to and act upon. 
 
 **Time Management** - Throughout my PGCE and my time teaching I have displayed excellent time management and organisation, planning lessons, creating resources, completing dissertations, tracking progress of myself and my students, writing reports and more. Oh, and teaching of course!
 
@@ -72,12 +75,15 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 
 ### <a name="experience">Experience</a>
 
-**Tes Global, Remote / London** (June 2018 - present)
+**Tes Global, Remote / London** (June '18 - present)
 - *Associate Software Engineer on the registration team, followed by the school portal team*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ*
-- *Active member of Diversity & Inclusion Working Group
+- *Active member of Diversity & Inclusion Working Group*
 - *Champion of the Study Club*
 - *Mentor*
+
+**Drayson & Stock, Faversham** (Oct '15 - present)
+- *Co-founder*
 
 **Fulston Manor School, Sittingbourne** (Sep '17 - Dec '17)
 - *Teacher of Science*
@@ -104,3 +110,4 @@ Europe's leading and most selective development bootcamp, a 16-week intensive co
 - Walking in nature
 - Letterpress Printing
 - SCUBA Diving
+- Learning
