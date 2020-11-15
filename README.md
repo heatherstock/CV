@@ -3,7 +3,8 @@
 ### <a name="experience">Experience</a>
 
 **Tes Global, Remote / London** (June '19 - present)
-- *Promoted to Software Engineer Dec '19, working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
+- *Employed permanently after 1 year contract, promoted to Software Engineer Dec '19, 
+- *Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Active member of Diversity & Inclusion Working Group*
 - *Mentor*
