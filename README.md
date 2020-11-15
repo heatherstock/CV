@@ -8,6 +8,7 @@
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Active member of Diversity & Inclusion Working Group*
 - *Mentor*
+- *Actively involved in developing skills of junior engineers*
 
 **LYT Yoga Teacher Training** (Jan '20 - Jun '20)
 - *Physical therapy informed yoga teacher training*
