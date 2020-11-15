@@ -3,8 +3,8 @@
 ### <a name="experience">Experience</a>
 
 **Tes Global, Remote / London** (June '19 - present)
-- *Software Engineer on Staff Pulse, a tool for understanding and developing teachers' wellbeing
-- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL*
+- *Promoted to Software Engineer Dec '19, working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing
+- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Active member of Diversity & Inclusion Working Group*
 - *Mentor*
 
@@ -14,7 +14,7 @@
 **Tes Global, Remote / London** (June '18 - June '19)
 - *Contractor, employed by Makers Academy*
 - *Associate Software Engineer on the registration team, followed by the school portal team*
-- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL*
+- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TDD*
 - *Champion of the Study Club*
 - *Mentor*
 
