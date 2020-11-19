@@ -31,6 +31,9 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 **LYT Yoga Teacher Training** (Jan '20 - Jun '20)
 - *Physical therapy informed yoga teacher training*
 
+**Chemistry Tutor** (September '20 - present)
+- *Tutoring A-Level students to improve their grades and boost their learning while they get to grips with remote schooling. 
+
 **Tes Global, Remote / London** (June '18 - June '19)
 - *Contractor, employed by Makers Academy*
 - *Associate Software Engineer on the registration team, followed by the school portal team*
