@@ -21,12 +21,13 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 ### Experience
 
 **Tes Global, Remote / London** (June '19 - present)
-- *Employed permanently after 1 year contract, promoted to Software Engineer Dec '19* 
 - *Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
-- *Active member of Diversity & Inclusion Working Group*
-- *Mentor*
-- *Actively involved in developing skills of junior engineers*
+- *Mentor & Coach*
+- *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.*
+- *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in in the alternate weeks. 
+- *Active member of Diversity & Inclusion Working Group (2019)*
+- *N.B. Employed permanently after 1 year contract, promoted to Software Engineer Dec '19* 
 
 **LYT Yoga Teacher Training** (Jan '20 - Jun '20)
 - *Physical therapy informed yoga teacher training*
@@ -104,4 +105,5 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 - Walking in nature
 - Letterpress Printing
 - SCUBA Diving
-- Learning
+- Learning and Reading
+- Sewing and Knitting
