@@ -25,7 +25,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Mentor & Coach*
 - *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.*
-- *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in in the alternate weeks. 
+- *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in in the alternate weeks.*
 - *Active member of Diversity & Inclusion Working Group (2019)*
 - *N.B. Employed permanently after 1 year contract, promoted to Software Engineer Dec '19* 
 
