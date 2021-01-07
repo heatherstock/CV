@@ -20,7 +20,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 
 ### Experience
 
-**Tes Global, Remote / London** (June '19 - present)
+**Tes Global, Remote** (June '19 - present)
 - *Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Mentor & Coach*
@@ -35,7 +35,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 **Chemistry Tutor** (September '20 - present)
 - *Tutoring A-Level students to improve their grades and boost their learning while they get to grips with remote schooling.*
 
-**Tes Global, Remote / London** (June '18 - June '19)
+**Tes Global, Remote** (June '18 - June '19)
 - *Contractor, employed by Makers Academy*
 - *Associate Software Engineer on the registration team, followed by the school portal team*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TDD*
