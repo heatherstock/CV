@@ -25,9 +25,14 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Mentor & Coach*
 - *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.*
-- *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in in the alternate weeks.*
+- *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in on the alternate weeks.*
 - *Active member of Diversity & Inclusion Working Group (2019)*
-- *N.B. Employed permanently after 1 year contract, promoted to Software Engineer Dec '19* 
+- *N.B. Employed permanently after 1 year contract (see below for further info), promoted to Software Engineer Dec '19* 
+
+**Drayson & Stock, Bexhill-on-Sea** (Oct '15 - present)
+- *Letterpress printing, design and web development*
+- *Self-taught myself to use gatsby and css grid to create fully responsive website [trugandmoon.com](https://trugandmoon.com/summer2020) to house my writings*
+- *Made a portfolio website for a product designer [jamesdrayson.com](https://jamesdrayson.com/)*
 
 **LYT Yoga Teacher Training** (Jan '20 - Jun '20)
 - *Physical therapy informed yoga teacher training*
@@ -55,10 +60,6 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 - *Final Project: Acheezable - a cheesy self development app*
 - *Mentor to two students in March '18 cohort*
 
-**Drayson & Stock, Bexhill-on-Sea** (Oct '15 - present)
-- *Co-founder*
-- *Letterpress printing, design and web development*
-
 **Fulston Manor School, Sittingbourne** (Sep '17 - Dec '17)
 - *Teacher of Science*
 - *Form Tutor*
@@ -81,25 +82,21 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 ### Education
 
 #### Liverpool Hope University (Sep '15 - June '16)
-
 - Royal Society of Chemistry Scholar
 - PGCE in Secondary Science - Chemistry Specialism 
 - Outstanding with Merit
 
 #### South China University of Technology, Guangzhou (July '12 - Jan '13)
-
 - Confucius Institute Scholar
 - Basic Mandarin Studies
 
 #### University of Liverpool (Sep '09 - June '12)
-
 - BSc Chemistry
 - 2:1 with Honours
 
 ***
 
 ### Interests
-
 - Meditation and Yoga
 - Gardening and growing food
 - Walking in nature
