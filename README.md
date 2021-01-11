@@ -1,4 +1,4 @@
-# Heather Stock 
+# Heather Drayson
 
 Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to being an engineer: https://1x.engineer/
 
