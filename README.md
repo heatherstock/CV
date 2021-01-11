@@ -4,9 +4,9 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 
 🔭 I’m currently working on Staff Pulse at TES - a tool to measure and improve the wellbeing of teachers, working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD, and pair programming 👩‍💻
 
-🌱 I’m currently learning about garderning and the best ways to combine rewilding and food production in my garden in Bexhill-on-Sea 👩‍🌾
+🌱 I’m currently learning about gardening and the best ways to combine rewilding and food production in my garden in Bexhill-on-Sea 👩‍🌾
 
-💬 Ask me about yoga - I completed a physical therapy informed teacher training while furloughed in Spring 2020 🤸‍♀️
+💬 Ask me about yoga - I completed a physiotherapy informed teacher training while furloughed in Spring 2020 🤸‍♀️
 
 🤔 I'm often wondering and reading about theology, which I find an endlessly fascinating subject 🌞
 
@@ -24,7 +24,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 - *Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
 - *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
 - *Mentor & Coach*
-- *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.*
+- *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principal engineers to develop a loose program and build their teaching skills.*
 - *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in on the alternate weeks.*
 - *Active member of Diversity & Inclusion Working Group (2019)*
 - *N.B. Employed permanently after 1 year contract (see below for further info), promoted to Software Engineer Dec '19* 
