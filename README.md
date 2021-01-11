@@ -31,7 +31,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 
 **Drayson & Stock, Bexhill-on-Sea** (Oct '15 - present)
 - *Letterpress printing, design and web development*
-- *Self-taught myself to use gatsby and css grid to create fully responsive website [trugandmoon.com](https://trugandmoon.com/summer2020) to house my writings*
+- *Self-taught myself to use gatsby, graphQL and css grid to create fully responsive website [trugandmoon.com](https://trugandmoon.com/summer2020) to house my writings*
 - *Made a portfolio website for a product designer [jamesdrayson.com](https://jamesdrayson.com/)*
 
 **LYT Yoga Teacher Training** (Jan '20 - Jun '20)
