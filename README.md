@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to being an engineer: https://1x.engineer/
 
-🔭 I’m currently working on Staff Pulse at TES - a tool to measure and improve the wellbeing of teachers, working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD, and pair programming 👩‍💻
+🔭 I’m currently working on Staff Pulse at TES - a tool to measure and improve the wellbeing of teachers, working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, Sequelize, OOP, TTD, and pair programming 👩‍💻
 
 🌱 I’m currently learning about gardening and the best ways to combine rewilding and food production in my garden in Bexhill-on-Sea 👩‍🌾
 
@@ -22,7 +22,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 
 **Tes Global, Remote** (June '19 - present)
 - *Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing*
-- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD*
+- *Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, Sequelize, OOP, TTD*
 - *Mentor & Coach*
 - *Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principal engineers to develop a loose program and build their teaching skills.*
 - *Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in on the alternate weeks.*
