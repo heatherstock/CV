@@ -8,7 +8,7 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 
 💬 Ask me about yoga - I completed a physiotherapy informed teacher training while furloughed in Spring 2020 🤸‍♀️
 
-🤔 I'm often wondering and reading about theology, which I find an endlessly fascinating subject 🌞
+🤔 - I'm often wondering and reading about a mix of philosophy, theology and psychology, which I find endlessly fascinating subjects. This has broadened by empathy and compassion, which I hope to one day somehow help others to do 🌞
 
 💪 A fear I'm working to overcome is sharing my knowledge, skills and passions with the world via writing ✍️
 
