@@ -21,86 +21,86 @@ Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to b
 ### Experience
 
 #### Tes Global, Remote (June '19 - present)
-- Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing
-- Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, Sequelize, Docker, Git version control, Jenkins, OOP & TDD
-- Mentor & Coach
-- Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.
-- Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in on the alternate weeks.
-- Active member of Diversity & Inclusion Working Group (2019)
-- N.B. Employed permanently after 1 year contract (see below for further info), promoted to Software Engineer Dec '19 
+Working on Staff Pulse creating a tool for understanding and developing teachers' wellbeing
+Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, Sequelize, Docker, Git version control, Jenkins, OOP & TDD
+Mentor & Coach
+Initiated a campaign to provide training to junior engineers that was previously lacking. Worked with principle engineers to develop a loose program and build their teaching skills.
+Retro facilitator. Succeeding in making retros biweekly - up from once or twice a year - and making wellbeing part of the focus, as well as creating a wellbeing check in on the alternate weeks.
+Active member of Diversity & Inclusion Working Group (2019)
+N.B. Employed permanently after 1 year contract (see below for further info), promoted to Software Engineer Dec '19 
 
 #### Drayson & Stock, Bexhill-on-Sea (Oct '15 - present)
-- Letterpress printing, design and web development
-- Self-taught myself to use gatsby, graphQL and css grid to create fully responsive website [trugandmoon.com](https://trugandmoon.com/summer2020) to house my writings
-- Made a portfolio website for a product designer [jamesdrayson.com](https://jamesdrayson.com/)
+Letterpress printing, design and web development
+Self-taught myself to use gatsby, graphQL and css grid to create fully responsive website [trugandmoon.com](https://trugandmoon.com/summer2020) to house my writings
+Made a portfolio website for a product designer [jamesdrayson.com](https://jamesdrayson.com/)
 
 #### LYT Yoga Teacher Training (Jan '20 - Jun '20)
-- Physical therapy informed yoga teacher training
+Physical therapy informed yoga teacher training
 
 #### Chemistry Tutor (September '20 - present)
-- Tutoring A-Level students to improve their grades and boost their learning while they get to grips with remote schooling.
+Tutoring A-Level students to improve their grades and boost their learning while they get to grips with remote schooling.
 
 #### Tes Global, Remote (June '18 - June '19)
-- Contractor, employed by Makers Academy
-- Associate Software Engineer on the registration team, followed by the school portal team
-- Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TDD
-- Champion of the Study Club
-- Mentor
+Contractor, employed by Makers Academy
+Associate Software Engineer on the registration team, followed by the school portal team
+Working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TDD
+Champion of the Study Club
+Mentor
 
 #### Makers Academy (January 2018 cohort)
-- Europe's leading and most selective development bootcamp, a 16-week intensive course.
-- Full Stack Web Development
-- Agile Methodologies
-- Object-oriented Design
-- Behaviour and Test Driven Development
-- Pair Programming
-- XP Values
-- Independent Learning and Problem Solving
-- Experience with MVC Frameworks
-- Final Project: Acheezable - a cheesy self development app
-- Mentor to two students in March '18 cohort
+Europe's leading and most selective development bootcamp, a 16-week intensive course.
+Full Stack Web Development
+Agile Methodologies
+Object-oriented Design
+Behaviour and Test Driven Development
+Pair Programming
+XP Values
+Independent Learning and Problem Solving
+Experience with MVC Frameworks
+Final Project: Acheezable - a cheesy self development app
+Mentor to two students in March '18 cohort
 
 #### Fulston Manor School, Sittingbourne (Sep '17 - Dec '17)
-- Teacher of Science
-- Form Tutor
-- Erasmus Assistant Coordinator
+Teacher of Science
+Form Tutor
+Erasmus Assistant Coordinator
 
 #### Archbishop Blanch School, Liverpool (Mar '16 - Jun '16)
-- Teacher Training
-- Intervention Tutor
+Teacher Training
+Intervention Tutor
 
 #### St Margaret's Church of England Academy, Liverpool (Sep '15 - Feb '16)
-- Teacher Training
+Teacher Training
 
 #### Sierra Madre Divers, Bohol, Philippines (Mar '13 - Nov '13)
-- Open Water SCUBA Diving Instructor
-- Emergency First Response Instructor
-- Dive Master
+Open Water SCUBA Diving Instructor
+Emergency First Response Instructor
+Dive Master
 
 ***
 
 ### Education
 
 #### Liverpool Hope University (Sep '15 - June '16)
-- Royal Society of Chemistry Scholar
-- PGCE in Secondary Science - Chemistry Specialism 
-- Outstanding with Merit
+Royal Society of Chemistry Scholar
+PGCE in Secondary Science - Chemistry Specialism 
+Outstanding with Merit
 
 #### South China University of Technology, Guangzhou (July '12 - Jan '13)
-- Confucius Institute Scholar
-- Basic Mandarin Studies
+Confucius Institute Scholar
+Basic Mandarin Studies
 
 #### University of Liverpool (Sep '09 - June '12)
-- BSc Chemistry
-- 2:1 with Honours
+BSc Chemistry
+2:1 with Honours
 
 ***
 
 ### Interests
-- Meditation and Yoga
-- Gardening and growing food
-- Walking in nature
-- Letterpress Printing
-- SCUBA Diving
-- Learning and Reading
-- Sewing and Knitting
+Meditation and Yoga
+Gardening and growing food
+Walking in nature
+Letterpress Printing
+SCUBA Diving
+Learning and Reading
+Sewing and Knitting
