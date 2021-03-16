@@ -31,7 +31,7 @@ Working on Staff Pulse creating a tool for understanding and developing teachers
 
 #### Drayson & Stock, Bexhill-on-Sea (Oct '15 - present)
 Letterpress printing, design and web development
-- Self-taught myself to use gatsby, graphQL and css grid to create fully responsive website to house my writing, [trugandmoon.com](https://trugandmoon.com/summer2020).
+- Self-taught myself to use gatsby, graphQL and css grid to create fully responsive website to house my writing, [trugandmoon.com](https://trugandmoon.com).
 - Made a portfolio website for a product designer, [jamesdrayson.com](https://jamesdrayson.com/)
 
 #### LYT Yoga Teacher Training (Jan '20 - Jun '20)
